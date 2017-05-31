@@ -48,7 +48,8 @@ You can simply call the Password Guru function check strength
 
 **var strengthResult = guruStrengthTest(username, password);**
 
-**more javascript?**                                                 
+A full example of password guru being used is shown here:
+https://github.com/DimiDimov/Password-Guru-Demo/blob/master/maindimi.js#L8                                             
 
 
                                                   DESCRIPTION OF STRENGTH SCORE
